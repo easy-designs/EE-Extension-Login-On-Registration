@@ -1,0 +1,15 @@
+== ext.login_on_registration.php
+
+ExpressionEngine extension that automatically logs a user in when they register.
+
+== Current Version
+
+1.0 (1 December 2009)
+
+== Requirements
+
+Solspace's User Module
+
+== License
+
+ext.easy_custom_fields.php is distributed under the liberal MIT License.
